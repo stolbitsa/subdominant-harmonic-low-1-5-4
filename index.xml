@@ -2,8 +2,8 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>subdominant-harmonic-low-1-5-4</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="stolbitsa" repo="subdominant-harmonic"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="stolbitsa" repo="subdominant-harmonic-all-1-5-4"/>
   <readme>
     <ru>c52d10e8e8d8ddee505284b130136d229168c1759fc470482127c3cc3f9e87f7</ru>
     <en>5b5da64c30233a51afa219ff5cbb51837e669339eeced91ee117fe7af071b7f6</en>
