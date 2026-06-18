@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>subdominant-harmonic-low-1-5-4</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="subdominant-harmonic-all-1-5-4"/>
   <readme>
-    <ru>c52d10e8e8d8ddee505284b130136d229168c1759fc470482127c3cc3f9e87f7</ru>
-    <en>5b5da64c30233a51afa219ff5cbb51837e669339eeced91ee117fe7af071b7f6</en>
+    <ru>1eaf10ebfd526fd884febccfbe54428d2fd72f655048000710e87a834e435e8d</ru>
+    <en>741f2ead358b88937333b3e63ec347b3abb6e053a408b6233f967c8c7de35267</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
